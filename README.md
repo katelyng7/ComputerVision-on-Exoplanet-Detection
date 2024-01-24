@@ -1,14 +1,15 @@
 # ComputerVision-on-Exoplanet-Detection
 
-* A Computer Vision Approach to Radial Velocity Extraction for Exoplanet Detection *
+# A Computer Vision Approach to Radial Velocity Extraction for Exoplanet Detection *
 * 2nd Place in OpenCV AI Competition 2023: https://www.hackster.io/contests/opencv-ai-competition-2023
-
+* Tutorial on hackster.io: https://www.hackster.io/katelyngan77/opencv-for-exoplanet-detection-75d9ed
+  
 Demonstration Code  © 2023-2024 Katelyn Gan (katelyngan77@gmail.com)
 
 Description
 This code demonstrates the concept and procedures of applying Computer Vision techniques to analyze stellar spectra and extract Radial Velocities (RV) for exoplanet detection. 
 
-Here is a tutorial on hackster.io: https://www.hackster.io/katelyngan77/opencv-for-exoplanet-detection-75d9ed
+
 
 How to run the demonstration
 Run the demo code "CV_Approach_for_RV_Extraction_Code_Demo.py".
