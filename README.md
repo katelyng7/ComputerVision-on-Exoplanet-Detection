@@ -11,7 +11,8 @@ Run the demo code "CV_Approach_for_RV_Extraction_Code_Demo.py".
 
 Code output: 
 ![Industry CBC method RVs](output_images/6.png) 
-![CV method RVs](output_images/7.png)
+
+
 ![Periodogram: CV method vs. Industry CBC method](output_images/5.png)
 
 **********************************************************************************************************************
