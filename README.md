@@ -10,6 +10,7 @@ How to run the demonstration
 Run the demo code "CV_Approach_for_RV_Extraction_Code_Demo.py".
 
 Code output: 
+
 ![Industry CBC method RVs](output_images/6.png) 
 
 
