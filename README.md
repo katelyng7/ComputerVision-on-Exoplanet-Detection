@@ -1,7 +1,7 @@
 # A Computer Vision Approach to Radial Velocity Extraction for Exoplanet Detection 
 * 2nd Place in OpenCV AI Competition 2023: https://www.hackster.io/contests/opencv-ai-competition-2023
 * Tutorial on hackster.io: https://www.hackster.io/katelyngan77/opencv-for-exoplanet-detection-75d9ed
-Demonstration Code  © 2023-2024 Katelyn Gan (katelyngan77@gmail.com) implementing ideas suggested by Vinesh Maguire-Rajpaul.
+Demonstration Code  © 2023-2024 Katelyn Gan (katelyngan77@gmail.com) 
 HD101501 data set is provided by Yale EXPRES, the EXtreme PREcision SPectrograph.
 Description: This code demonstrates the concept and procedures of applying Computer Vision techniques to analyze stellar spectra and extract Radial Velocities (RV) for exoplanet detection. 
 
