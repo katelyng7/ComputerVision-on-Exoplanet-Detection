@@ -2,7 +2,7 @@
 * 2nd Place in OpenCV AI Competition 2023: https://www.hackster.io/contests/opencv-ai-competition-2023
 * Tutorial on hackster.io: https://www.hackster.io/katelyngan77/opencv-for-exoplanet-detection-75d9ed
 * Demonstration Code  © 2023-2024 Katelyn Gan, implementing ideas suggested by Vinesh Maguire-Rajpaul
-* For comments and question, please contact me (katelyngan77@gmail.com).
+* For comments and questions, please contact me (katelyngan77@gmail.com).
 * These results made use of data provided by the Yale-SFSU-Lowell EXPRES team using the EXtreme PREcision Spectrograph at the Lowell Discovery telescope, Lowell Observatory. Lowell is a private, non-profit institution dedicated to astrophysical research and public appreciation of astronomy and operates the LDT in partnership with Boston University, the University of Maryland, the University of Toledo, Northern Arizona University and Yale University. EXPRES was designed and built at Yale with financial support from MRI-1429365, NSF ATI-1509436 and Yale University. Research with EXPRES is possible thanks to the generous support from NSF 2009528, NSF 1616086, NASA 80NSSC18K0443, NSF AST-2009528, the Heising-Simons Foundation, and an anonymous donor in the Yale alumni community.
   
 Description: This code demonstrates the concept and procedures of applying Computer Vision techniques to analyze stellar spectra and extract Radial Velocities (RV) for exoplanet detection. 
